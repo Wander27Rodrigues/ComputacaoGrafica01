@@ -1,0 +1,25 @@
+/* reset de pagina */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* reset de corpo */
+body {
+    margin: 90px;
+    padding: auto;
+}
+
+#quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(98, 0, 255);
+}
+
+#SecondQuadrado {
+    margin-top: 20px;
+    padding: auto;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(253, 106, 106);
+}
